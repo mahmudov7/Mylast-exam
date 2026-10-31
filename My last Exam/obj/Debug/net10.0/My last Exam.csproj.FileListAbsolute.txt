@@ -1,0 +1,14 @@
+C:\Users\2026\Desktop\My last Exam\bin\Debug\net10.0\My last Exam.exe
+C:\Users\2026\Desktop\My last Exam\bin\Debug\net10.0\My last Exam.deps.json
+C:\Users\2026\Desktop\My last Exam\bin\Debug\net10.0\My last Exam.runtimeconfig.json
+C:\Users\2026\Desktop\My last Exam\bin\Debug\net10.0\My last Exam.dll
+C:\Users\2026\Desktop\My last Exam\bin\Debug\net10.0\My last Exam.pdb
+C:\Users\2026\Desktop\My last Exam\obj\Debug\net10.0\My last Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2026\Desktop\My last Exam\obj\Debug\net10.0\My last Exam.AssemblyInfoInputs.cache
+C:\Users\2026\Desktop\My last Exam\obj\Debug\net10.0\My last Exam.AssemblyInfo.cs
+C:\Users\2026\Desktop\My last Exam\obj\Debug\net10.0\My last Exam.csproj.CoreCompileInputs.cache
+C:\Users\2026\Desktop\My last Exam\obj\Debug\net10.0\My last Exam.dll
+C:\Users\2026\Desktop\My last Exam\obj\Debug\net10.0\refint\My last Exam.dll
+C:\Users\2026\Desktop\My last Exam\obj\Debug\net10.0\My last Exam.pdb
+C:\Users\2026\Desktop\My last Exam\obj\Debug\net10.0\My last Exam.genruntimeconfig.cache
+C:\Users\2026\Desktop\My last Exam\obj\Debug\net10.0\ref\My last Exam.dll
